@@ -11,9 +11,9 @@ def hello():
     <html>
         <head><title>Docker Swarm Test</title></head>
         <body style="font-family: Arial; text-align: center; padding: 50px; background-color: #e3f2fd;">
-            <h1 style="color: #c62828;">Docker Swarm 動作確認 v3.0</h1>
+            <h1 style="color: #e65100;">Docker Swarm 動作確認 v5.0</h1>
             <h2>コンテナ名: {hostname}</h2>
-            <p style="font-size: 20px; color: #d32f2f;">🚀 ローリングアップデート第2弾！</p>
+            <p style="font-size: 20px; color: #ff6f00;">⚠️ v5.0 - これはロールバックされます</p>
         </body>
     </html>
     '''
